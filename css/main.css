@@ -282,6 +282,7 @@ html{
     color:skyblue;
 }
 
+/*
 .review .box-container{
     display: flex;
     align-items: center;
@@ -335,75 +336,132 @@ html{
     font-size: 1.4rem;
     padding:1rem;
 }
+*/
 
-
-.contact{
+.a{
+    text-decoration: none;
+}
+#testimonials{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width:100%;
+}
+.testimonial-heading{
+    letter-spacing: 1px;
+    margin: 30px 0px;
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.testimonial-heading h1{
+    font-size: 2.2rem;
+    font-weight: 500;
+    background-color: #202020;
+    color: #ffffff;
+    font-family: sans-serif;
+    padding: 10px 20px;
+}
+.testimonial-heading span{
+    font-size: 4rem;
+    color: #252525;
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
+}
+.testimonial-box-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width:100%;
+}
+.testimonial-box{
+    width:500px;
+    box-shadow: 2px 2px 30px rgba(0,0,0,0.1);
+    background-color: #ffffff;
+    padding: 12px;
+    margin: 15px;
+    cursor: pointer;
+}
+.profile-img{
+    width:50px;
+    height: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 10px;
+}
+.profile-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+.profile{
     display: flex;
     align-items: center;
-    justify-content: center;
-    flex-wrap: wrap;
-    padding-bottom: 1rem;
 }
-
-.contact .image{
-    flex:1 1 20rem;
+.name-user{
+    display: flex;
+    flex-direction: column;
 }
-
-.contact .image img{
-    width:100%;
-    padding:2rem;
+.name-user strong{
+    color: #3d3d3d;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
 }
-
-.contact form{
-    flex:1 1 10rem;
-    padding:2rem 3rem;
-    border:.1rem solid rgba(0,0,0,.2);
-    box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
-    border-radius: .5rem;
-    background:#fff;
+.name-user span{
+    color: #979797;
+    font-size: 0.8rem;
 }
-
-.contact form .heading{
-    text-align: left;
-    padding:0;
-    padding-bottom: 2rem;
+.reviews{
+    color: #f9d71c;
 }
-
-.contact form .inputBox{
-    position: relative;
+.box-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
 }
-
-.contact form .inputBox input, .contact form .inputBox textarea{
-    width:100%;
-    background:none;
-    color:#666;
-    margin:1.5rem 0;
-    padding:.5rem 0;
-    font-size: 1.7rem;
-    border-bottom: .1rem solid rgba(0,0,0,.1);
-    text-transform: none;
+.client-comment p{
+    font-size: 0.9rem;
+    color: #4b4b4b;
 }
-
-.contact form .inputBox textarea{
-    resize: none;
-    height: 13rem;
+.testimonial-box:hover{
+    transform: translateY(-10px);
+    transition: all ease 0.3s;
 }
-
-.contact form .inputBox label{
-    position: absolute;
-    top:1.7rem; left:0;
-    font-size: 1.7rem;
-    color:#666;
-    transition: .2s linear;
+ 
+@media(max-width:1060px){
+    .testimonial-box{
+        width:45%;
+        padding: 10px;
+    }
 }
-
-.contact form .inputBox input:focus ~ label,
-.contact form .inputBox input:valid ~ label,
-.contact form .inputBox textarea:focus ~ label,
-.contact form .inputBox textarea:valid ~ label{
-    top:-.5rem;
-    font-size: 1.5rem;
-    color:var(--pink);
+@media(max-width:790px){
+    .testimonial-box{
+        width:100%;
+    }
+    .testimonial-heading h1{
+        font-size: 1.4rem;
+    }
+}
+@media(max-width:340px){
+    .box-top{
+        flex-wrap: wrap;
+        margin-bottom: 10px;
+    }
+    .reviews{
+        margin-top: 10px;
+    }
+}
+::selection{
+    color: #ffffff;
+    background-color: #252525;
 }
 
 
