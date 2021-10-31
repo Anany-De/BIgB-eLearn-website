@@ -69,7 +69,7 @@ If you want to contact me, you can reach me through below Social handles.
 <a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website"><img src="https://sloc.xyz/github/The-Shivam-garg/BIgB-eLearn-website" alt="LOC" /></a>
 <a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website"><img src="https://img.shields.io/github/stars/The-Shivam-garg/BIgB-eLearn-website" alt="Stars Badge" /></a>
 <a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/BIgB-eLearn-website alt="Forks Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/E-learn-website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/BIgB-eLearn-website?color=2b9348" ></a>
+<a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/BIgB-eLearn-website?color=2b9348" ></a>
 
 [![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/BIgB-eLearn-website?logo=github)](https://github.com/The-Shivam-garg/BIgB-eLearn-website/blob/master/LICENSE)
 </div>
