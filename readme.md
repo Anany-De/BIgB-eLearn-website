@@ -1,7 +1,7 @@
 ## BigB (E-learning Website)
-An educational website for students and programmers  👨🏻‍🎓👨🏻‍🎓
+An educational website for Learners  👨🏻‍🎓👨🏻‍🎓
 
- Our Educational Website would provide all the education related stuffs:  
+ Our Educational Website Cover all the Educational related things whether it's in-syllabus or out-of-syllabus:  
  Notes, Sample Papers, Online Video Lectures and courses to crack competitive 
  exams like Applied Subjects,graduation subjects, GATE, etc. Students can clear their doubts  
  by sending their questions to our website. We have added Quizzes for Students  
@@ -13,7 +13,7 @@ An educational website for students and programmers  👨🏻‍🎓👨🏻‍�
 ✔ Quiz Section is an interesting feature for students which provide them with  
    lots of questions. They can view their scores easily and solutions of every questions.  
 ✔ Projects – in this I have added a project section where students from schools and  
-   colleges can get projects for final year and for Class 12th Board Projects.  
+   colleges can get projects for final year and Boards Projects.  
    
 It is completely responsive website, to provide smooth experience...😎  
 
@@ -22,7 +22,7 @@ It is completely responsive website, to provide smooth experience...😎
 
 ## 🚩 Front LOOk of Main Page:
 
-![Front View]()
+![Front View](https://github.com/The-Shivam-garg/BIgB-eLearn-website/blob/39b9dcc7ef2b4c1254bd49b94295b975e4c14d57/img/front.png)
 
 
 
