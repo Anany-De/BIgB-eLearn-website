@@ -17,7 +17,7 @@ An educational website for Learners  👨🏻‍🎓👨🏻‍🎓
    
 It is completely responsive website, to provide smooth experience...😎  
 
-![](.png)  
+![Small Preview](https://github.com/The-Shivam-garg/BIgB-eLearn-website/blob/b92c5fe709d803c8cae225ff890fc7f9847c6b08/img/small%20view.png)  
 
 
 ## 🚩 Front LOOk of Main Page:
