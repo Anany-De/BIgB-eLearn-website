@@ -26,7 +26,7 @@ It is completely responsive website, to provide smooth experience...😎
 
 
 
-### BigB website build using HTML5, CSS3, JavaScript and jQuery.
+### BigB website build using HTML5, CSS3, JavaScript ,Ruby , SCSS and jQuery.
 
 <h2> Website:Comming Soon After final touch <BR>
 <a href="" target="_blank">Visit 🚀</a>
@@ -36,7 +36,7 @@ It is completely responsive website, to provide smooth experience...😎
 [![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]
 [![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)]
 [![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
-
+[![RUBY](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)]
 
 #### Extras : Particle.js, Typed.js, Tilt.js, Font Awesome, JSON, etc.
 
@@ -66,9 +66,9 @@ If you want to contact me, you can reach me through below Social handles.
 
 <div align="center">
 
-<a href="https://github.com/The-Shivam-garg/E-learn-website"><img src="https://sloc.xyz/github/The-Shivam-garg/BIgB-eLearn-website" alt="LOC" /></a>
-<a href="https://github.com/The-Shivam-garg/E-learn-website"><img src="https://img.shields.io/github/stars/The-Shivam-garg/BIgB-eLearn-website" alt="Stars Badge" /></a>
-<a href="https://github.com/The-Shivam-garg/E-learn-website/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/BIgB-eLearn-website alt="Forks Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website"><img src="https://sloc.xyz/github/The-Shivam-garg/BIgB-eLearn-website" alt="LOC" /></a>
+<a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website"><img src="https://img.shields.io/github/stars/The-Shivam-garg/BIgB-eLearn-website" alt="Stars Badge" /></a>
+<a href="https://github.com/The-Shivam-garg/BIgB-eLearn-website/network/members"><img src="https://img.shields.io/github/forks/The-Shivam-garg/BIgB-eLearn-website alt="Forks Badge" /></a>
 <a href="https://github.com/The-Shivam-garg/E-learn-website/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/The-Shivam-garg/BIgB-eLearn-website?color=2b9348" ></a>
 
 [![GitHub license](https://img.shields.io/github/license/The-Shivam-garg/BIgB-eLearn-website?logo=github)](https://github.com/The-Shivam-garg/BIgB-eLearn-website/blob/master/LICENSE)
